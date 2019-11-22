@@ -59,5 +59,6 @@
 
 /* 数字を電話番号認識しても見た目は変えない */
 .tel-number a {
+  color: #333333;
   text-decoration: none;
 }
