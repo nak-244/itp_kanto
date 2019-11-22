@@ -56,3 +56,8 @@
   filter: alpha(opacity=70);
   -ms-filter: "alpha(opacity=70)";
 }
+
+/* 数字を電話番号認識しても見た目は変えない */
+.tel-number a {
+  text-decoration: none;
+}
